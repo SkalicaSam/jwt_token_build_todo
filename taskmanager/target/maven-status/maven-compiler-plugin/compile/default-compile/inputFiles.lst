@@ -1,0 +1,9 @@
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\controller\UserController.java
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\dto\UserDto.java
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\entity\Task.java
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\entity\User.java
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\repository\TaskRepository.java
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\repository\UserRepository.java
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\security\SecurityConfig.java
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\service\UserService.java
+C:\dev\project\java\taskmanager\src\main\java\com\example\taskmanager\TaskmanagerApplication.java
